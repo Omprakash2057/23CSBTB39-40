@@ -13,4 +13,6 @@ https://github.com/Omprakash2057/23CSBTB39-40/blob/main/Lab06_AIML.ipynb
 https://github.com/Omprakash2057/23CSBTB39-40/blob/main/Day_5(2303A52057).ipynb
 
 https://github.com/Omprakash2057/23CSBTB39-40/blob/main/Lab_Exam_Aiml_2303A52057.ipynb
+
+https://github.com/Omprakash2057/23CSBTB39-40/blob/main/Assignment_8_(2057).ipynb
 # 23CSBTB39-40
